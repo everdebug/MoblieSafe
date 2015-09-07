@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/MoblieSafe/!svn/ver/1/src/com/txy/mobliesafe
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MoblieSafe/!svn/ver/6/src/com/txy/mobliesafe/MainActivity.java
+END
+SetupWizard1.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MoblieSafe/!svn/ver/5/src/com/txy/mobliesafe/SetupWizard1.java
+END
+SetupWizard2.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MoblieSafe/!svn/ver/6/src/com/txy/mobliesafe/SetupWizard2.java
+END
+AdvancedSettingsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MoblieSafe/!svn/ver/8/src/com/txy/mobliesafe/AdvancedSettingsActivity.java
+END
+SecurityActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MoblieSafe/!svn/ver/5/src/com/txy/mobliesafe/SecurityActivity.java
+END
+SetupWizard3.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MoblieSafe/!svn/ver/6/src/com/txy/mobliesafe/SetupWizard3.java
+END
+HomeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MoblieSafe/!svn/ver/8/src/com/txy/mobliesafe/HomeActivity.java
+END
+SetupWizard4.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MoblieSafe/!svn/ver/6/src/com/txy/mobliesafe/SetupWizard4.java
+END
+NumberSelectActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MoblieSafe/!svn/ver/6/src/com/txy/mobliesafe/NumberSelectActivity.java
+END
+ComunicationActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MoblieSafe/!svn/ver/8/src/com/txy/mobliesafe/ComunicationActivity.java
+END
+BaseSetupActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MoblieSafe/!svn/ver/5/src/com/txy/mobliesafe/BaseSetupActivity.java
+END
+SoftSelectActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MoblieSafe/!svn/ver/8/src/com/txy/mobliesafe/SoftSelectActivity.java
+END
+SettingActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/MoblieSafe/!svn/ver/6/src/com/txy/mobliesafe/SettingActivity.java
+END
+ContactsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MoblieSafe/!svn/ver/6/src/com/txy/mobliesafe/ContactsActivity.java
+END

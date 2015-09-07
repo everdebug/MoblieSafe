@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:txy="http://schemas.android.com/apk/res/com.txy.mobliesafe"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dip"
+        android:gravity="center_horizontal"
+        android:text="设置"
+        android:textSize="25sp" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.2dip"
+        android:layout_marginTop="5dip"
+        android:background="#383c3c" />
+
+    <com.txy.mobliesafe.ui.SettingItemView
+        android:id="@+id/siv_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dip"
+        txy:desc_off="设置自动更新已经关闭"
+        txy:desc_on="设置自动更新已经开启"
+        txy:title="设置自动更新" >
+    </com.txy.mobliesafe.ui.SettingItemView>
+
+    <com.txy.mobliesafe.ui.SettingItemView
+        android:id="@+id/siv_item_callservice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dip"
+        txy:desc_off="设置来电号码归属地已经关闭"
+        txy:desc_on="设置来电号码归属地已经开启"
+        txy:title="设置来电号码归属地" >
+    </com.txy.mobliesafe.ui.SettingItemView>
+
+    <com.txy.mobliesafe.ui.SettingItemToastView
+        android:id="@+id/sitv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dip"
+        txy:title="设置归属地背景" >
+    </com.txy.mobliesafe.ui.SettingItemToastView>
+
+    <com.txy.mobliesafe.ui.SettingItemView
+        android:id="@+id/siv_item_applockservice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dip"
+        txy:desc_off="程序锁已经关闭"
+        txy:desc_on="程序锁已经开启"
+        txy:title="设置程序锁" >
+    </com.txy.mobliesafe.ui.SettingItemView>
+
+</LinearLayout>

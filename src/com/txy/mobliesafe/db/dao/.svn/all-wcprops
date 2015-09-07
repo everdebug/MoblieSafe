@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MoblieSafe/!svn/ver/6/src/com/txy/mobliesafe/db/dao
+END
+NumberSelectUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MoblieSafe/!svn/ver/6/src/com/txy/mobliesafe/db/dao/NumberSelectUtils.java
+END
+BlackNumberDBOpenHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MoblieSafe/!svn/ver/7/src/com/txy/mobliesafe/db/dao/BlackNumberDBOpenHelper.java
+END
